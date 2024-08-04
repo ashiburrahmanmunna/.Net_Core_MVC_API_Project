@@ -1,0 +1,29 @@
+﻿@model Company
+
+<h2 class="text-primary my-5 text-center">HR Project</h2>
+<div class="form-floating mb-2 w-25 mx-auto">
+    <select id="ComId" asp-for="ComId" class="form-control" asp-items="ViewBag.Companies" onchange="fncClick()">
+        <option disabled selected>Select Company</option>
+    </select>
+    <label asp-for="ComId" class="control-label">Company</label>
+    <span asp-validation-for="ComId" class="text-danger"></span>
+</div>
+
+<script>function fncClick() {
+        var ComId = document.getElementById('ComId').value;
+
+        $.ajax({
+            url: '/Home/SetCompany',
+            type: 'GET',
+            data: { 'ComId': ComId },
+            dataType: 'json',
+            success: function (data) {
+                // Process the returned data here
+                console.log(data);
+            },
+            error: function (xhr, status, error) {
+                // Handle any errors that occur during the request
+                console.error('Error:', error);
+            }
+        });
+    }</script>

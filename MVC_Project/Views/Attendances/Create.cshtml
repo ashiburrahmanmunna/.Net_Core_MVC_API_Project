@@ -1,0 +1,64 @@
+﻿@model MVC_Project.Models.Attendance
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Attendance</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @*<label asp-for="ComId" class="control-label"></label>*@
+                <select asp-for="ComId" class ="form-control" asp-items="ViewBag.ComId" hidden></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.ComName" class="control-label"></label>
+                <select asp-for="Company.ComName" class ="form-control" asp-items="ViewBag.ComName"></select>
+            </div>
+            <div class="form-group">
+                @*<label asp-for="EmpId" class="control-label"></label>*@
+                <select asp-for="EmpId" class ="form-control" asp-items="ViewBag.EmpId" hidden></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Employee.EmpName" class="control-label"></label>
+                <select asp-for="Employee.EmpName" class ="form-control" asp-items="ViewBag.EmpName"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="dtDate" class="control-label"></label>
+                <input type="date" asp-for="dtDate" class="form-control" />
+                <span asp-validation-for="dtDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @*<label asp-for="AttStatus" class="control-label"></label>*@
+                <input asp-for="AttStatus" class="form-control" hidden/>
+                <span asp-validation-for="AttStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InTime" class="control-label"></label>
+                <input asp-for="InTime" class="form-control" />
+                <span asp-validation-for="InTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OutTime" class="control-label"></label>
+                <input asp-for="OutTime" class="form-control" />
+                <span asp-validation-for="OutTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

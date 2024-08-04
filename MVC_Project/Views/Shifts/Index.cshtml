@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MVC_Project.Models.Shift>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Shifts</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Company)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShiftName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShiftIn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShiftOut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShiftLate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Company.ComName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShiftName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShiftIn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShiftOut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShiftLate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ShiftId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ShiftId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ShiftId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

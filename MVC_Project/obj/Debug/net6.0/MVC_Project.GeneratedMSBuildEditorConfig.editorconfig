@@ -1,0 +1,205 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_Project
+build_property.RootNamespace = MVC_Project
+build_property.ProjectDir = F:\Asp.Net_Trraining\take2\MVC_Project Repository Pattern\MVC_Project Repository Pattern\MVC_Project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Asp.Net_Trraining\take2\MVC_Project Repository Pattern\MVC_Project Repository Pattern\MVC_Project
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/AttendanceSummaries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVN1bW1hcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/AttendanceSummaries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVN1bW1hcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/AttendanceSummaries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVN1bW1hcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/AttendanceSummaries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVN1bW1hcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/AttendanceSummaries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVN1bW1hcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Attendances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Attendances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Attendances/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Attendances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Attendances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Designations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Designations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Designations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Designations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Designations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Salaries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Salaries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Salaries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Salaries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Salaries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shifts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shifts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shifts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shifts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shifts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Asp.Net_Trraining/take2/MVC_Project Repository Pattern/MVC_Project Repository Pattern/MVC_Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8nktfhlg37
